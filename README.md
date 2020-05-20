@@ -1,3 +1,6 @@
+# Build
+
+[![Build Status](https://thenightsking.visualstudio.com/Microsoft%20Build%20Challenge%201/_apis/build/status/ashutosh-nigam.mslearn-tailspin-spacegame-web?branchName=master)](https://thenightsking.visualstudio.com/Microsoft%20Build%20Challenge%201/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
