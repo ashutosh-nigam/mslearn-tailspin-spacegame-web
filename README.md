@@ -1,3 +1,7 @@
+Badges:
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ashutosh-nigam_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=ashutosh-nigam_mslearn-tailspin-spacegame-web)
+
+[![Build Status](https://thenightsking.visualstudio.com/Microsoft%20Build%20Challenge%201/_apis/build/status/ashutosh-nigam.mslearn-tailspin-spacegame-web?branchName=master)](https://thenightsking.visualstudio.com/Microsoft%20Build%20Challenge%201/_build/latest?definitionId=4&branchName={branchName})
 
 # Contributing
 
