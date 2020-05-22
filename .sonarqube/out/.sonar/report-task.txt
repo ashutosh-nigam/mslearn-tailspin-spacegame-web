@@ -1,0 +1,7 @@
+organization=ashutosh-nigam
+projectKey=ashutosh-nigam_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8217
+dashboardUrl=https://sonarcloud.io/dashboard?id=ashutosh-nigam_mslearn-tailspin-spacegame-web
+ceTaskId=AXI8GH3vCSqt_c0rbgdR
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXI8GH3vCSqt_c0rbgdR
